@@ -1,0 +1,1 @@
+from .painting import inpaint_predict, outpaint_predict, sketch_predict
